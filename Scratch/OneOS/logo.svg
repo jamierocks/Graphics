@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="text2985"
+       style="font-size:195.74040222px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WeblySleek UI Light;-inkscape-font-specification:WeblySleek UI Light">
+      <path
+         d="m 101.80381,451.24187 0,153.79432 97.8702,0 0,-153.79432 z m 55.92412,111.84825 -13.97804,0 0,-69.90814 13.97804,0 z"
+         id="path2990"
+         style="font-variant:normal;font-stretch:normal;font-family:'04b_19';-inkscape-font-specification:'04b_19'" />
+      <path
+         d="m 255.76539,605.03619 0,-97.8702 13.97805,0 0,97.8702 41.94607,0 0,-139.81628 -97.8702,0 0,139.81628 z"
+         id="path2992"
+         style="font-variant:normal;font-stretch:normal;font-family:'04b_19';-inkscape-font-specification:'04b_19'" />
+      <path
+         d="m 325.83482,451.24187 0,153.79432 97.8702,0 0,-41.94607 -55.92413,0 0,-13.97805 55.92413,0 0,-97.8702 z m 55.92412,55.92412 -13.97805,0 0,-13.98401 13.97805,0 z"
+         id="path2994"
+         style="font-variant:normal;font-stretch:normal;font-family:'04b_19';-inkscape-font-specification:'04b_19'" />
+      <path
+         d="m 437.85032,451.24187 0,153.79432 97.8702,0 0,-153.79432 z m 55.92412,111.84825 -13.97804,0 0,-69.90814 13.97804,0 z"
+         id="path2996"
+         style="font-variant:normal;font-stretch:normal;font-family:'04b_19';-inkscape-font-specification:'04b_19'" />
+      <path
+         d="m 549.86582,451.24187 0,97.8702 55.92412,0 0,13.97805 -55.92412,0 0,41.94607 97.8702,0 0,-97.8702 -55.92412,0 0,-13.98401 55.92412,0 0,-41.94011 z"
+         id="path2998"
+         style="font-variant:normal;font-stretch:normal;font-family:'04b_19';-inkscape-font-specification:'04b_19'" />
+    </g>
+  </g>
+</svg>
